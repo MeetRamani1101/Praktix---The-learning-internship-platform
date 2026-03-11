@@ -74,6 +74,19 @@ praktix/
 
 ---
 
+## 🛠️ Languages Used
+
+![PHP](https://img.shields.io/badge/PHP-95.2%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2.1%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-included-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+*.php linguist-language=PHP
+*.css linguist-language=CSS
+
+
 ## ⚙️ Installation
 
 1. **Clone the repo**
