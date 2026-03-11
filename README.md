@@ -103,18 +103,10 @@ $password = "your_password";
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Programs | Dashboard |
-|-----------|----------|-----------|
-| ![Home](public/assets/course.jpg) | Browse & filter courses | Track enrollments & applications |
-
----
-
 ## 👨‍💻 Author
 
 **Meetkumar Ramani**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [MeetRamani1101](https://github.com/YOUR_USERNAME)
 - Live: [ramani.byethost15.com](https://ramani.byethost15.com)
 
 ---
