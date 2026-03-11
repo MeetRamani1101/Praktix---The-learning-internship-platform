@@ -83,7 +83,7 @@ praktix/
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-*.php linguist-language=PHP
+*.php linguist-language=PHP 
 *.css linguist-language=CSS
 
 
