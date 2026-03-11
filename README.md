@@ -1,1 +1,0 @@
-# Praktix---The-learning-internship-platform
