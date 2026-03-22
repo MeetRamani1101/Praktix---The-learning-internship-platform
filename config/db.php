@@ -3,7 +3,7 @@
 $host     = "sql100.byethost15.com";
 $dbname   = "b15_41346550_praktix";
 $username = "b15_41346550";
-$password = "MeetR6697@";
+$password = "Your_Password";
 
 try {
     $pdo = new PDO(
